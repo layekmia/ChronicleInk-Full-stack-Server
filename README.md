@@ -64,7 +64,7 @@ JWT_SECRET=your_jwt_secret
 npm start
 ```
 
-Server will run at `http://localhost:5000`
+Server will run at `http://localhost:3000`
 
 ---
 
@@ -83,7 +83,7 @@ Server will run at `http://localhost:5000`
 The server is deployed on Vercel:
 
 **Live API:**  
-[https://chronicle-ink-server.vercel.app/](https://chronicle-ink-server.vercel.app/)
+[https://chronicle-ink-server.vercel.app/](https://chronicle-ink-full-stack-server.vercel.app/)
 
 ---
 
