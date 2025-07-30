@@ -99,6 +99,6 @@ The server is deployed on Vercel:
 
 ## 📧 Contact
 
-For questions or support, please open an issue or contact [your-email@example.com](mailto:layek.webdev@gmail.com).
+For questions or support, please open an issue or contact [layek.webdev@gmail.com](mailto:layek.webdev@gmail.com).
 
 ---
